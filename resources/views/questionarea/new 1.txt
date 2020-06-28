@@ -1,0 +1,3 @@
+vagrant up - per te startuar serverin
+vagrant ssh - per tu kyqur ne server
+vagrant provision - perdoret per te rilexuar Homestead.yaml
